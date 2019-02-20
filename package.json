@@ -1,7 +1,7 @@
 {
-  "name": "joshkemmerdotcom",
+  "name": "dev-starter-template",
   "version": "0.0.1",
-  "description": "Portfolio site for Josh Kemmer",
+  "description": "A general template for starting a new website",
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.5",

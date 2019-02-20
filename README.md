@@ -1,3 +1,1 @@
-# joshkemmerdotcom
-
-Personal portfolio website
+# dev-starter-template
